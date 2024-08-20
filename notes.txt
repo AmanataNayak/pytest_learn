@@ -1,0 +1,17 @@
+What is Pytest
+-> Testing framework for python.
+-> Auto-discovery of tests.
+-> Rich assertion introspection.
+-> Support parameterized and fixture based testing.
+
+Why pytest?
+-> Simplified syntax
+-> Rich assertion introspection
+-> powerful fixture system
+-> compatibility
+-> extensbility
+
+Mocking:
+-> Used to isolate the system we are testing. replace the external dependencies with controlled
+implementation called mock.
+->
